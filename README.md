@@ -1,7 +1,7 @@
 # mnist_handwritte_number_recognition_web
 mnist handwritte number recognition web application using keras
 
-
+![Alt text](mainpagePic.png)
 
 
 ### 参考：
